@@ -31,7 +31,7 @@ The project focuses on the analysis and design of an Online Pharmacy Management 
 
 ## 🎨 UI Design
 
-![UI Design](UI Design.jpg)
+![UI Design](pharmacy-ui-design.jpg)
 
 ---
 
